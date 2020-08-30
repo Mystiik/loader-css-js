@@ -13,6 +13,6 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "autoload": {
-    "psr-4": { "GN\\LoaderCssJs\\": "loader-css-js/src/" }
+    "psr-4": { "GN\\LoaderCssJs\\": "loader-css-js/src/gg/" }
   }
 }
