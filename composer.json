@@ -8,6 +8,6 @@
     "email": "guillaume.nicolas15@gmail.com"
   }],
   "autoload": {
-    "psr-4": { "GN\\LoaderCssJs\\": "src/" }
+    "psr-4": { "GN\\Loadercssjs\\": "src/" }
   }
 }
