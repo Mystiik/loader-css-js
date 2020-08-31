@@ -1,6 +1,6 @@
 <?php
 
-namespace GN\Loadercssjs;
+namespace GN\LoaderCssJs;
 
 class Loader
 {

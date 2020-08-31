@@ -1,7 +1,7 @@
 <?php
 // https://css4design.developpez.com/tutoriels/css/feuille-de-style-css-dynamique-avec-php/
 
-use GN\Loadercssjs\Loader;
+use GN\LoaderCssJs\Loader;
 
 // header('HTTP/1.0 304 Not Modified');
 // header('Cache-Control: max-age=3600, must-revalidate');
